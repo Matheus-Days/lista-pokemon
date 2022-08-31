@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+}
+
+ul {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+}
+
+.item-card {
+  background-color: beige;
+  border: 1px solid lightgoldenrodyellow;
+  border-radius: 4px;
+  padding: 1rem;
+}
+
+.item-card span {
+  display: block;
+}
